@@ -1,7 +1,7 @@
-C++ and OOP Practice Codes
+C++ and OOP Practice Codes:
 This repository contains a collection of C++ practice codes covering fundamental concepts and Object-Oriented Programming (OOP) principles. These files were created during my second semester as learning and practice exercises.
 
-Contents
+Contents:
 The repository is organized into various C++ files, each focusing on a specific concept or task. You'll find examples related to:
 
 C++ Basics:
@@ -13,6 +13,7 @@ Structs: struct.cpp, array-of-struct.cpp
 File Handling: fileHandling.cpp, demofile.txt
 Basic Algorithms: factorial.cpp, factorial of a number.cpp, factorial using recursion.cpp, program to print table of a given number.cpp, sum of even numbers till 100.cpp
 Input/Output Manipulation: iomanipHeader.cpp, insertionOperatorOverloaded.cpp
+
 Object-Oriented Programming (OOP) in C++:
 Classes and Objects: constructors_setter_getter.cpp, testClass.cpp, main.cpp, newfile.cpp
 Constructors and Destructors: copy_operation.cpp, copyconstructor.cpp, 2D_array_copyConstructor.cpp
@@ -50,13 +51,13 @@ ooplab_20seb.cpp
 pastPaperOPP.cpp
 quiz-oopLab.cpp
 ultimated task 3 13 date.cpp
-Projects:
 
+Projects:
 car_rental_project.cpp
 library_managment_syatem.cpp
 DNA_sequence.cpp
 
-How to Use
+How to Use:
 Each .cpp file can be compiled and run independently using a C++ compiler (like g++). For example:
 
 Bash(terminal):
